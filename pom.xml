@@ -24,6 +24,12 @@
             <version>${kotlin.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.twilio.sdk</groupId>
+            <artifactId>twilio</artifactId>
+            <version>7.14.4</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
