@@ -5,3 +5,9 @@ src/main/resources/
 src/test/
 stockApp.iml
 target/
+/src/main/kotlin/alerts/Twilio.kt
+/src/main/kotlin/newStockForm/
+src/main/kotlin/newStockForm/newStockWindow.kt
+src/main/kotlin/newStockForm/NewStock.kt
+src/main/kotlin/newStockForm/Stock.kt
+src/main/kotlin/newStockForm/Styles.kt
